@@ -1,4 +1,4 @@
-baseURL = "http://fuadamirullah.github.io/fuadaja.github.io/"
+baseURL = "https://fuadamirullah.github.io/fuadaja.github.io/"
 languageCode = 'en-us'
 title = 'ExfuStore'
 theme = "PaperMod"
